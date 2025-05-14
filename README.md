@@ -31,7 +31,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/travel-tracker.git
+git clone (https://github.com/NasrKashtu/Travel-Tracker/tree/main)
 cd travel-tracker
 Install dependencies:
 
